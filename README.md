@@ -1,9 +1,9 @@
 # Bunker
- My custom browser homepage. Very cool.
+a custom browser startup/homepage.
 
 # Configuration
 
-Here is an example of a valid Bunker configuration. Invalid JSON will be blocked, so make sure you get it right!
+Here is an example of a valid configuration. Invalid JSON will be blocked, ensure that it's correct!
 
 To remove the "Steam Games" section of the sidebar, simply remove the "steamGames" key. 
 
